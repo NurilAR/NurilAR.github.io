@@ -2,17 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
      <loc>https://github.com/NurilAR/NurilAR.github.io/</loc>
-     <lastmod>2019-10-04</lastmod>
+     <lastmod>2019-12-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://github.com/NurilAR/NurilAR.github.io/tugas1/</loc>
-     <lastmod>2019-10-04</lastmod>
+     <lastmod>2019-12-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
      <loc>https://github.com/NurilAR/NurilAR.github.io/tugas2/</loc>
-     <lastmod>2019-10-04</lastmod>
+     <lastmod>2019-12-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://github.com/NurilAR/NurilAR.github.io/Mengukur Jarak/</loc>
+     <lastmod>2019-12-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://github.com/NurilAR/NurilAR.github.io/knn/</loc>
+     <lastmod>2019-12-13</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>https://github.com/NurilAR/NurilAR.github.io/fuzzy_c_mean/</loc>
+     <lastmod>2019-12-13</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
